@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-furigana/static/css/main.603bb4c6.css",
+    "main.js": "/react-furigana/static/js/main.a9876739.js",
+    "static/js/787.a67fcec0.chunk.js": "/react-furigana/static/js/787.a67fcec0.chunk.js",
+    "index.html": "/react-furigana/index.html",
+    "main.603bb4c6.css.map": "/react-furigana/static/css/main.603bb4c6.css.map",
+    "main.a9876739.js.map": "/react-furigana/static/js/main.a9876739.js.map",
+    "787.a67fcec0.chunk.js.map": "/react-furigana/static/js/787.a67fcec0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603bb4c6.css",
+    "static/js/main.a9876739.js"
+  ]
+}
